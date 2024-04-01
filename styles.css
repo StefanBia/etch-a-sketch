@@ -20,7 +20,7 @@
 .square {
     background-color: lightgray;
     height: 20px;
-    width: calc(100% / 16); 
+    width: 20px; 
 }
 
 .square:hover {
